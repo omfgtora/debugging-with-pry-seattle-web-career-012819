@@ -1,6 +1,6 @@
 def plus_two(num)
 	v = num + 2
 	#num
-	v
+	return v
 	binding.pry
 end
